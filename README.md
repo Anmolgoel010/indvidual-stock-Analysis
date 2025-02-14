@@ -1,4 +1,4 @@
-# Individual Stock Analysis Project
+# Individual Stock Performance Analysis Project
 
 A Python-based tool for analyzing individual stock performance using historical data. This project uses Walmart stock data from 2020-2024, but any other stock can be easily integrated with the code.
 
