@@ -14,7 +14,7 @@ From the raw stock data (CSV file), you will be able to get the following insigh
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Anmolgoel010/indvidual-stock-Analysis.git
+    git clone https://github.com/Anmolgoel010/stock-performance-Analysis
     ```
 
 2. **Navigate to the project folder**:
